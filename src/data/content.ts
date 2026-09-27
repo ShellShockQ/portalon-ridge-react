@@ -245,7 +245,7 @@ export const cta = {
 };
 
 export const footer = {
-  left: "Brave Spaces, LLC · Property listed by Blue Zone Realty International (MLS BZ/BR/0085)",
+  left: "Brave Spaces, LLC",
   right: "PREPARED [MONTH YEAR] · CONFIDENTIAL — NOT FOR DISTRIBUTION",
 };
 
